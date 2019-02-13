@@ -1,6 +1,6 @@
 {
   "name": "@opengine/controller",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "OPEngine: Base Controllers",
   "keywords": [
     "opengine-controller",
