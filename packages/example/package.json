@@ -1,5 +1,5 @@
 {
-  "name": "example",
+  "name": "@opengine/example",
   "version": "0.1.2",
   "description": "OPEngine Example Source",
   "author": "Mike G <mikegvso@gmail.com>",
@@ -19,5 +19,5 @@
   "dependencies": {
     "typescript": "^3.3.3"
   },
-  "gitHead": "1bacd4f310be13b22e20442c9f26f9b13e33a500"
+  "gitHead": "405ccc4e2efaf2e5533caf232a365eec81a29ee7"
 }
