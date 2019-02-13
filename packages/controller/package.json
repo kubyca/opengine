@@ -1,5 +1,5 @@
 {
-  "name": "@opengine/controller",
+  "name": "controller",
   "version": "0.1.1",
   "description": "OPEngine: Base Controllers",
   "keywords": [

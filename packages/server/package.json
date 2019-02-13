@@ -1,5 +1,5 @@
 {
-  "name": "@opengine/server",
+  "name": "server",
   "version": "0.1.1",
   "description": "OPEngine: API Server",
   "keywords": [

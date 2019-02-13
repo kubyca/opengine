@@ -1,9 +1,9 @@
 {
-  "name": "@opengine/example",
+  "name": "example",
   "version": "0.1.1",
   "description": "OPEngine Example Source",
   "author": "Mike G <mikegvso@gmail.com>",
-  "homepage": "",
+  "homepage": "https://github.com/kubyca/opengine",
   "license": "MIT",
   "main": "lib/Server.js",
   "directories": {
