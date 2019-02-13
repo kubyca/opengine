@@ -1,0 +1,45 @@
+{
+  "name": "@opengine/server",
+  "version": "0.0.0",
+  "description": "OPEngine: API Server",
+  "keywords": [
+    "opengine-server",
+    "opengine",
+    "server"
+  ],
+  "author": "Mike G <mikegvso@gmail.com>",
+  "homepage": "https://opengine.kuby.ca/",
+  "license": "MIT",
+  "main": "lib/Server.js",
+  "typings": "lib/Server.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubyca/opengine-server.git"
+  },
+  "scripts": {
+    "tsc": "tsc --module commonjs",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/kubyca/opengine-server/issues"
+  },
+  "dependencies": {
+    "@types/express": "^4.16.1",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.4",
+    "csurf": "^1.9.0",
+    "express": "^4.16.4",
+    "helmet": "^3.15.1",
+    "typescript": "^3.3.3"
+  }
+}
