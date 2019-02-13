@@ -8,7 +8,7 @@
 <p align="center">A modular API-first framework for building applications with no bloat included. Typescript + Express, with built-in security rules, and CSRF protection.</p>
 <hr />
 <p align="center">
-    <a href="#features">Features</a> | <a href="#installation">Installation</a> | <a href="#contribution">Contributing</a> | <a href="#use-cases">Use Cases</a> | <a href="https://github.com/kubyca/opengine/issues/new">Create Issue</a> | <a href="https://kuby.ca/">Follow the development</a>
+    <a href="#features">Features</a> | <a href="#installation">Installation</a> | <a href="#contribution">Contributing</a> | <a href="#use-cases">Use Cases</a> | <a href="https://github.com/kubyca/opengine/issues/new">Create Issue</a> | <a href="https://kuby.ca/tag/opengine/">Follow the development</a>
 </p>
 
 OPEngine is undergoing active development, you are free to star, watch, and contribute. All code written here is licensed under MIT, you are free to do what you wish with this code, and encourage you to do so!

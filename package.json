@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/buncx/webcms.git"
+    "url": "git+ssh://git@github.com/kubyca/opengine.git"
   },
   "keywords": [
     "webcms",
@@ -20,9 +20,9 @@
   "author": "Mike G <mike@kuby.ca>",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/buncx/webcms/issues"
+    "url": "https://github.com/kubyca/opengine/issues"
   },
-  "homepage": "https://gitlab.com/buncx/webcms#readme",
+  "homepage": "https://github.com/kubyca/opengine#readme",
   "dependencies": {
     "@types/cookie-parser": "^1.4.1",
     "@types/csurf": "^1.9.35",
